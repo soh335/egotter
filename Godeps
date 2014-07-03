@@ -1,0 +1,38 @@
+{
+	"ImportPath": "github.com/soh335/egotter",
+	"GoVersion": "go1.2",
+	"Deps": [
+		{
+			"ImportPath": "github.com/ChimeraCoder/anaconda",
+			"Rev": "92c9b3e174520999062cf2f299e7a5959393678e"
+		},
+		{
+			"ImportPath": "github.com/ChimeraCoder/tokenbucket",
+			"Rev": "c5a927568de7aad8a58127d80bcd36ca4e71e454"
+		},
+		{
+			"ImportPath": "github.com/garyburd/go-oauth/oauth",
+			"Rev": "12ce6efc373e0a0fb9f6c93209a768dc5b797ba8"
+		},
+		{
+			"ImportPath": "github.com/mattn/go-scan",
+			"Rev": "743b521e1fa50933b8cd358ffbc3069f740abefc"
+		},
+		{
+			"ImportPath": "github.com/mreiferson/go-httpclient",
+			"Rev": "c121dfe45d66997e43e25a6823fbe7466c8403fe"
+		},
+		{
+			"ImportPath": "github.com/mrjones/oauth",
+			"Rev": "3f16dcc42f866917f38646e7448993412f3a7be7"
+		},
+		{
+			"ImportPath": "github.com/soh335/go-imkayaccom",
+			"Rev": "71c70d42a6af2dc0d99709ab51873d3618b84e39"
+		},
+		{
+			"ImportPath": "github.com/soh335/go-twitterstream",
+			"Rev": "93f7082f1becf0bcbe99e1fd72b4d58fd09815f1"
+		}
+	]
+}
