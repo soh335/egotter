@@ -4,6 +4,8 @@ import (
 	"github.com/mattn/go-scan"
 )
 
+//TODO: refactoring
+
 type Tweet struct {
 	data interface{}
 }
