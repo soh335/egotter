@@ -13,6 +13,7 @@ cp config.json.sample config.json
 # edit config.json
 git add config.json
 git commit -m 'add config.json'
+git remote add heroku ...
 ```
 
 ### deploy to heroku
@@ -22,3 +23,8 @@ git checkout heroku
 git merge --no-ff master
 git push heroku heroku:master
 ```
+## TODO
+
+* refactoring
+* more notification services
+* and more..
